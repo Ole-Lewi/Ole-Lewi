@@ -1,4 +1,4 @@
-Hey, I'm **Lewis Miano** 👋
+Hey, I'm **Lewis Miano** 
 I go by **Lincoln**. 
 I'm an **Agentic AI builder** and an **AI Engineer** with skills in *Machine Learning* and a strong background in Backend Development.
 Based in Kenya - I build systems that think, act and reason even when the internet fails.
@@ -9,7 +9,7 @@ Personally, am equipped with evaluation skills in RAGAS and DeepEval. I write js
 In addition to that, i integrate Human-In-The-Loop(HITL), mainly to ensure that every step the agent takes is approved by a human.
 I'm not there yet. But I'm closer than I was yesterday.
 
-## 🧭 The Journey So Far
+## The Journey So Far
 ALX Backend Web Dev (Python, Django, SQL, Render)
         ↓
 Frontend (HTML, CSS, JavaScript, React)
@@ -20,38 +20,38 @@ Deep Learning → NLP (Transformers, Embeddings, Clustering)
         ↓
 Agentic AI (LangChain, LangGraph, RAG, Vector DBs, Agents, Multi-Agent Systems)
 
-## 🔨 What I'm Building Right Now
+##  What I'm Building Right Now
 -A multi-agent, multi-tool system, that supervises the writing, reviewing, debugging and improving code tied up with HITL.
 -Works both online and offline — switching between cloud APIs and local models depending on connectivity conditions.
 --The goal: an agent that doesn't fail when the internet does.
 -This is directly informed by building under real constraints — limited RAM, intermittent connectivity, a ThinkPad that makes every architectural decision feel personal.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ## Project. -> What It Does. -> Stack.
 
-**🦾 Lynne**
+** Lynne**
 -Portfolio BotRAG chatbot that answers questions about me. 
 -Deployed live. 
 -LangChain, FAISS, Cohere, Groq, Streamlit, Render.
 -[Repo](https://github.com/Ole-Lewi/Professional_Portfolio) · 
 -[Live Demo](https://professional-portfolio-5.onrender.com) .
 
-**🤖 Local AI AgentReAct vs LangGraph** 
+** Local AI AgentReAct vs LangGraph** 
 -Two agent architectures compared head-to-head, running fully offline.
 -LangChain, LangGraph, Ollama, llama3.2.
 -[Repo](https://github.com/Ole-Lewi/local_ai_agent)
 
-**🧠 Agentic AI-RAG pipeline + context-aware research agent with prompt injection defenses.**
+** Agentic AI-RAG pipeline + context-aware research agent with prompt injection defenses.**
 -LangChain, FAISS, HuggingFace, Groq.
 -[Repo](https://github.com/Ole-Lewi/Agentic_AI-)
 
-**🛍️ NLP Review Analyzer-Unsupervised sentiment clustering on 1400+ customer reviews.** 
+** NLP Review Analyzer-Unsupervised sentiment clustering on 1400+ customer reviews.** 
 -Deployed as FastAPI.
 -NLTK, TF-IDF, KMeans, FastAPI, Render.
 -[Repo](https://github.com/Ole-Lewi/NLP-Review-Analyzer--Sentiment-Cluster)
 
-**🚢 Titanic ML5 classification models benchmarked on the Kaggle Titanic dataset.**
+** Titanic ML5 classification models benchmarked on the Kaggle Titanic dataset.**
 -XGBoost, Random Forest, Scikit-learn.
 -[Repo](https://github.com/Ole-Lewi/Titanic---Machine-learning-from-Disaster)
 
@@ -60,11 +60,11 @@ Agentic AI (LangChain, LangGraph, RAG, Vector DBs, Agents, Multi-Agent Systems)
 -Python, Scikit-learn, FastAPI | 
 -[Repo](https://github.com/Ole-Lewi/student_performance_api) |
 
-## 🎬 Movie Review AppFull-stack Django web app — where it all started. 
+##  Movie Review AppFull-stack Django web app — where it all started. 
 -ALX Backend Capstone (2023).
 -Python, Django, SQLite, HTML/CSS/JS
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ## Agentic AI & LLMs
 'LangChain' . 'LangGraph' . 'LangSmith' . 'Ollama' . 'Groq' . 'Cohere' . 'FAISS' . 'ChromaDB' . 'RAG' . 'Prompt Engineering'.
@@ -80,21 +80,21 @@ Agentic AI (LangChain, LangGraph, RAG, Vector DBs, Agents, Multi-Agent Systems)
 ## Dev & Deployment
 'Git' . 'GitHub' . 'Render' . 'Docker'(learning) 'VS Code' . 'Linux'
 
-### 🌍 Building From Kenya
+###  Building From Kenya
 
 Most of this was built offline, on a Lenovo ThinkPad T470s, with models running locally because cloud APIs aren't always an option.
 That constraint shaped how I think about systems: they should degrade gracefully, not fail completely. An agent that only works when the internet is perfect isn't a real agent.
 If you're building in Africa under similar conditions — or anywhere resources are limited — feel free to reach out. Some problems are worth solving together.
 
-## 📬 Let's Connect
+##  Let's Connect
 
-## 📧 Email 
+##  Email 
 lewisino666@gmail.com
-## 💼 LinkedIn 
+##  LinkedIn 
 Lewis Miano [https://www.linkedin.com/in/lewis-miano-b91329321/]
 ## WhatsApp 
 +254 716 652 003
-## 🤖 Chat with Lynne(Personal Bot) 
+## Chat with Lynne(Personal Bot) 
 -ask her anything about me
 https://professional-portfolio-5.onrender.com/
 
