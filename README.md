@@ -4,6 +4,9 @@ I'm an **Agentic AI builder** and an **AI Engineer** with skills in *Machine Lea
 Based in Kenya - I build systems that think, act and reason even when the internet fails.
 Driven by Iron Man's personal assistant, Jarvis, i have always been determined to build a future only seen in television shows.
 That idea — a personal AI that knows you, reasons for you, acts on your behalf — has been the thread running through everything I've built. Every RAG pipeline, every LangGraph agent, every locally-running model on my ThinkPad T470s with intermittent internet. It's all moving toward that.
+As currently seen in most AI tech companies across the globe, most of their AI Agents are failing in testing and escape from their sandbox. This is very dangerous especially if the system is equipped with a lot of tools since it can even hack into other websites, steal data, or even corrupt them and cause misfunctioning.
+Personally, am equipped with evaluation skills in RAGAS and DeepEval. I write json code for evaluation for every AI Agent I create.
+In addition to that, i integrate Human-In-The-Loop(HITL), mainly to ensure that every step the agent takes is approved by a human.
 I'm not there yet. But I'm closer than I was yesterday.
 
 ## 🧭 The Journey So Far
